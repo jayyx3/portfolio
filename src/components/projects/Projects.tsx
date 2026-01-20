@@ -84,8 +84,8 @@ export const projects = [
     description:
       "A personal MERN portfolio showcasing projects, skills, and contact details with responsive design and polished UX.",
     image: "/portfolio-mern.png",
-    liveUrl: "#",
-    repoUrl: "#",
+    liveUrl: "https://jay-portfolio-1409ya0et-jay-joshis-projects.vercel.app/",
+    repoUrl: "https://github.com/jayyx3/portfolio",
     techStack: ["MERN Stack", "TypeScript"],
   },
   {
