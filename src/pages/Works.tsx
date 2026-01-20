@@ -1,11 +1,11 @@
-import { useContext, useEffect } from "react";
+import { useContext } from "react";
 import { FolderIcon } from "../assets/icons/icons";
 import Contact from "../components/contact/Contact";
 import Header from "../components/header/Header";
 import PageHero from "../components/page-hero/PageHero";
 import Projects from "../components/projects/Projects";
 import Reviews from "../components/reviews/Reviews";
-import FreelanceSpotlight from "../components/freelance-spotlight/FreelanceSpotlight";
+// import FreelanceSpotlight from "../components/freelance-spotlight/FreelanceSpotlight";
 import { motion, useIsPresent } from "framer-motion";
 import { ThemeContext } from "../App";
 

@@ -1,4 +1,4 @@
-import { useContext, useEffect } from "react";
+import { useContext } from "react";
 import { PhoneIcon } from "../assets/icons/icons";
 import MeansOfContact from "../components/contact/MeansOfContact";
 import FreelanceSpotlight from "../components/freelance-spotlight/FreelanceSpotlight";

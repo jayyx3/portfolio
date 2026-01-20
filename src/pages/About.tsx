@@ -1,4 +1,4 @@
-import { useContext, useEffect } from "react";
+import { useContext } from "react";
 import { AboutIcon } from "../assets/icons/icons";
 import AboutMe from "../components/about-me/AboutMe";
 import Contact from "../components/contact/Contact";

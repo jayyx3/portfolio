@@ -1,4 +1,4 @@
-import { useContext, useEffect } from "react";
+import { useContext } from "react";
 import Contact from "../components/contact/Contact";
 import Header from "../components/header/Header";
 import Hero from "../components/hero/Hero";

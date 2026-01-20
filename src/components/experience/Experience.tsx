@@ -2,7 +2,7 @@ import { useContext } from "react";
 import SectionHeading from "../section-heading/SectionHeading";
 import { ThemeContext } from "../../App";
 import { motion } from "framer-motion";
-import { CircleIcon, ExternalLinkIcon } from "../../assets/icons/icons"; // Placeholder, will use CSS for bullets
+import { ExternalLinkIcon } from "../../assets/icons/icons"; // Placeholder, will use CSS for bullets
 
 interface ExperienceProps {}
 

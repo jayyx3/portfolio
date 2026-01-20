@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import { useContext } from "react";
 import { ThemeContext } from "../../App";
 import { motion } from "framer-motion";
 import { 
@@ -8,8 +8,8 @@ import {
   MailIcon, 
   InstagramIcon,
   TwitterIcon,
-  DiscordIcon,
-  ExternalLinkIcon
+  // DiscordIcon,
+  // ExternalLinkIcon
 } from "../../assets/icons/icons";
 
 const FreelanceSpotlight = () => {

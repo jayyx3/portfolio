@@ -14,7 +14,7 @@ import {
   VercelIcon,
 } from "../../assets/icons/icons";
 import SectionHeading from "../section-heading/SectionHeading";
-import SkillsCard from "./SkillsCard";
+// import SkillsCard from "./SkillsCard";
 import { ThemeContext } from "../../App";
 
 interface SkillsProps {}

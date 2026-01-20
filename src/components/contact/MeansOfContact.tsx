@@ -7,7 +7,7 @@ import {
 } from "../../assets/icons/icons";
 import ContactCard from "./ContactCard";
 import { ThemeContext } from "../../App";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 
 interface MeansOfContactProps {}
 
