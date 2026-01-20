@@ -32,11 +32,11 @@ const Reviews = () => {
         <div className="relative w-full flex overflow-hidden">
           <motion.div
             className="flex gap-8 whitespace-nowrap"
-            animate={{ x: "-50%" }}
+            animate={{ x: ["0%", "-50%"] }}
             transition={{
               repeat: Infinity,
               ease: "linear",
-              duration: 30, 
+              duration: 40,
             }}
             style={{ width: "max-content" }}
           >
@@ -55,12 +55,11 @@ const Reviews = () => {
         <div className="relative w-full flex overflow-hidden">
           <motion.div
             className="flex gap-8 whitespace-nowrap"
-            initial={{ x: "-50%" }}
-            animate={{ x: "0%" }}
+            animate={{ x: ["-50%", "0%"] }}
             transition={{
               repeat: Infinity,
               ease: "linear",
-              duration: 30,
+              duration: 40,
             }}
             style={{ width: "max-content" }}
           >
@@ -80,11 +79,11 @@ const Reviews = () => {
           <motion.div
             className="flex gap-8 whitespace-nowrap"
             animate={{ x: "-50%" }}
+            transition={{["0%", "-50%"] }}
             transition={{
               repeat: Infinity,
               ease: "linear",
-              duration: 30,
-            }}
+              duration: 4
             style={{ width: "max-content" }}
           >
             {[...row3, ...row3].map((src, index) => (
