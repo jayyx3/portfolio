@@ -92,9 +92,9 @@ const Hero: React.FunctionComponent<HeroProps> = () => {
             </p>
             <h2 className="name">I'm Jay Joshi</h2>
             <p className="extraDetails">
-              A passionate Software Developer dedicated to building efficient,
-              scalable web solutions that simplify complex ideas into seamless,
-              accessible, and engaging user experiences.
+              An AI & Full Stack Developer specializing in RAG pipelines, 
+              LangChain, and intelligent web systems — turning complex 
+              data into scalable, production-ready AI solutions.
             </p>
             <div className="resumeContainer">
               <a className="resume" href="/Resume.pdf" target="_blank">
