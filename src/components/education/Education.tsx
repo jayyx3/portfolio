@@ -10,7 +10,7 @@ interface EducationProps {}
 const educationData = [
   {
     institution: "Indian Institute of Information Technology",
-    degree: "Bachelor of Engineering in Computer Science",
+    degree: "Bachelor of Technology in Computer Science & Engineerin",
     duration: "August 2022 – July 2026",
     location: "Kota, Rajasthan",
     url: "https://iiitkota.ac.in/",
@@ -19,7 +19,7 @@ const educationData = [
     institution: "Swami Vivekananda Government Model School",
     degree: "Class XII CBSE (Science Stream)",
     duration: "March 2021 – July 2022",
-    location: "Reoder, Rajasthan",
+    location: "Reodar, Rajasthan",
     url: "https://www.svgmsreodar.com/",
   },
 ];
