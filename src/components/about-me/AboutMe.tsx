@@ -69,7 +69,7 @@ const AboutMe = () => {
               </p>
               
               <p>
-                My work lives at the intersection of <span className={`${isDark ? 'text-cyan-300' : 'text-blue-600'}`}>AI/ML, </span>, <span className={`${isDark ? 'text-purple-300' : 'text-purple-600'}`}>RAG pipelines, LangChain, and full-stack development — where intelligent systems, scalable web apps, and data-driven solutions come together. I build with Python, FastAPI, React, Node.js, and modern AI tooling to ship production-ready products.
+                My work lives at the intersection of <span className={`${isDark ? 'text-cyan-300' : 'text-blue-600'}`}>AI/ML, </span>, <span className={`${isDark ? 'text-purple-300' : 'text-purple-600'}`}>RAG pipelines, LangChain, and full-stack development —</span> where intelligent systems, scalable web apps, and data-driven solutions come together. I build with Python, FastAPI, React, Node.js, and modern AI tooling to ship production-ready products.
               </p>
               <p>
                 Whether it's building a RAG platform, training an ML classifier, engineering a REST API, or designing a full-stack app...
