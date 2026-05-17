@@ -65,19 +65,17 @@ const AboutMe = () => {
             
             <div className={`space-y-6 text-lg leading-relaxed ${isDark ? 'text-slate-300' : 'text-slate-600'}`}>
               <p>
-                I’m a <span className={`font-semibold ${isDark ? 'text-white' : 'text-slate-900'}`}>Computer Science Engineering Student</span> and a software engineer who enjoys building technology that feels as good as it performs.
+                I’m a <span className={`font-semibold ${isDark ? 'text-white' : 'text-slate-900'}`}>Computer Science Engineering Student</span> at IIIT Kota and a freelance AI & full-stack developer with a #1 global ranking on Freelancer.com, a 4.8★ rating, and a 100% job success rate across international clients.
               </p>
               
               <p>
-                My work lives at the intersection of <span className={`${isDark ? 'text-cyan-300' : 'text-blue-600'}`}>Machine Learning</span>, <span className={`${isDark ? 'text-purple-300' : 'text-purple-600'}`}>MERN Stack Development</span>, and Data Structures & Algorithms — where intelligent models, scalable web systems, and efficient problem-solving come together. I focus on writing clean, maintainable code and designing architectures that can grow, adapt, and perform under real-world conditions.
-              </p>
+                My work lives at the intersection of <span className={`${isDark ? 'text-cyan-300' : 'text-blue-600'}`}>AI/ML, </span>, <span className={`${isDark ? 'text-purple-300' : 'text-purple-600'}`}>RAG pipelines, LangChain, and full-stack development — where intelligent systems, scalable web apps, and data-driven solutions come together. I build with Python, FastAPI, React, Node.js, and modern AI tooling to ship production-ready products.
               
               <p>
-                I believe great engineering is not only about making things work, but about making them simple, reliable, and elegant. Whether it’s optimizing algorithms, crafting backend systems, or designing modern user experiences, I care deeply about quality at every layer of a product.
-              </p>
+                Whether it's building a RAG platform, training an ML classifier, engineering a REST API, or designing a full-stack app...
 
               <p>
-                I’m driven by curiosity, continuous learning, and the desire to turn complex challenges into impactful software solutions. My goal is to grow as a Software Development Engineer and contribute to products that create meaningful value at scale.
+                My goal is to grow as an AI Engineer & Full Stack Developer and build systems that solve real problems at scale — from intelligent data pipelines to production web platforms.
               </p>
             </div>
 
