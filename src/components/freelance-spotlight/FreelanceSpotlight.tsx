@@ -68,7 +68,7 @@ const FreelanceSpotlight = () => {
                                     Hire Me on Freelancer
                                 </h3>
                                 <p className={`mb-8 ${isDark ? 'text-slate-400' : 'text-slate-600'}`}>
-                                    Top-rated Full Stack Developer & Video Editor delivering excellence.
+                                    Top-rated AI & Full Stack Developer — 4.8★, 100% job success, 13+ verified reviews.
                                 </p>
 
                                 <a 
@@ -106,7 +106,7 @@ const FreelanceSpotlight = () => {
                         </h2>
                         
                         <p className={`text-xl mb-10 max-w-lg mx-auto lg:mx-0 ${isDark ? 'text-slate-400' : 'text-slate-600'}`}>
-                            Whether you need a full-stack web application, a custom Python script, or high-end video editing, I'm just a message away.
+                            Whether you need an AI pipeline, a RAG system, a full-stack web app, or a data analysis solution — I'm just a message away.
                         </p>
 
                         <div className="flex flex-wrap justify-center lg:justify-start gap-4">
