@@ -28,6 +28,8 @@ const Skills: React.FunctionComponent<SkillsProps> = () => {
         { name: "C++", icon: <TypescriptIcon /> },
         { name: "Python", icon: <JavascriptIcon /> },
         { name: "JavaScript", icon: <HtmlIcon /> },
+        { name: "TypeScript", icon: <TypescriptIcon /> },
+        { name: "SQL", icon: <GitIcon /> },
       ],
     },
     {
@@ -42,6 +44,13 @@ const Skills: React.FunctionComponent<SkillsProps> = () => {
         { name: "Scikit-learn", icon: <FirebaseIcon /> },
         { name: "Pandas", icon: <GitIcon /> },
         { name: "NumPy", icon: <VercelIcon /> },
+        { name: "FastAPI", icon: <ReactIcon /> },
+        { name: "Streamlit", icon: <ReduxIcon /> },
+        { name: "Socket.IO", icon: <TailwindIcon /> },
+        { name: "Prisma ORM", icon: <BootstrapIcon /> },
+        { name: "Zod", icon: <JqueryIcon /> },
+        { name: "Matplotlib", icon: <FigmaIcon /> },
+        { name: "Seaborn", icon: <FirebaseIcon /> },
       ],
     },
     {
@@ -55,6 +64,13 @@ const Skills: React.FunctionComponent<SkillsProps> = () => {
         { name: "Neural Networks", icon: <FigmaIcon /> },
         { name: "Autoencoders", icon: <FirebaseIcon /> },
         { name: "Graph Neural Networks (GNN)", icon: <GitIcon /> },
+        { name: "LangChain", icon: <VercelIcon /> },
+        { name: "RAG", icon: <ReactIcon /> },
+        { name: "Sentence Transformers", icon: <ReduxIcon /> },
+        { name: "SMOTE", icon: <TailwindIcon /> },
+        { name: "PCA", icon: <BootstrapIcon /> },
+        { name: "EDA", icon: <JqueryIcon /> },
+        { name: "Vector Search", icon: <FigmaIcon /> },
       ],
     },
     {
@@ -68,6 +84,10 @@ const Skills: React.FunctionComponent<SkillsProps> = () => {
         { name: "JWT Authentication", icon: <ReduxIcon /> },
         { name: "Backend Architecture", icon: <BootstrapIcon /> },
         { name: "Full Stack Development", icon: <ReactIcon /> },
+        { name: "WebRTC", icon: <FigmaIcon /> },
+        { name: "Zustand", icon: <FirebaseIcon /> },
+        { name: "Razorpay Integration", icon: <GitIcon /> },
+        { name: "RBAC", icon: <VercelIcon /> },
       ],
     },
     {
@@ -84,6 +104,17 @@ const Skills: React.FunctionComponent<SkillsProps> = () => {
       ],
     },
     {
+      title: "Databases & ORMs",
+      items: [
+        { name: "MySQL", icon: <GitIcon /> },
+        { name: "MongoDB", icon: <FirebaseIcon /> },
+        { name: "SQLite", icon: <FigmaIcon /> },
+        { name: "Mongoose", icon: <VercelIcon /> },
+        { name: "SQLAlchemy", icon: <TailwindIcon /> },
+        { name: "Prisma ORM", icon: <BootstrapIcon /> },
+      ],
+    },
+    {
       title: "Tools & Platforms",
       items: [
         { name: "Git & GitHub", icon: <GitIcon /> },
@@ -95,6 +126,11 @@ const Skills: React.FunctionComponent<SkillsProps> = () => {
         { name: "Netlify", icon: <ReactIcon /> },
         { name: "Render", icon: <ReduxIcon /> },
         { name: "Hugging Face", icon: <BootstrapIcon /> },
+        { name: "Docker", icon: <JqueryIcon /> },
+        { name: "GitHub Actions", icon: <FigmaIcon /> },
+        { name: "Swagger UI", icon: <FirebaseIcon /> },
+        { name: "Power BI", icon: <GitIcon /> },
+        { name: "MS Excel", icon: <TypescriptIcon /> },
       ],
     },
     {
@@ -108,6 +144,10 @@ const Skills: React.FunctionComponent<SkillsProps> = () => {
         { name: "Blackbox", icon: <FigmaIcon /> },
         { name: "Replit", icon: <FirebaseIcon /> },
         { name: "Generative UI Platforms", icon: <GitIcon /> },
+        { name: "Groq API", icon: <VercelIcon /> },
+        { name: "OpenAI API", icon: <ReactIcon /> },
+        { name: "HuggingFace Transformers", icon: <ReduxIcon /> },
+        { name: "Gemini API", icon: <TailwindIcon /> },
       ],
     },
     {
@@ -119,6 +159,9 @@ const Skills: React.FunctionComponent<SkillsProps> = () => {
         { name: "Optimization", icon: <BootstrapIcon /> },
         { name: "Technical Communication", icon: <JqueryIcon /> },
         { name: "Continuous Learning", icon: <FigmaIcon /> },
+        { name: "KPI Design", icon: <FirebaseIcon /> },
+        { name: "Business Reporting", icon: <GitIcon /> },
+        { name: "Statistical Modeling", icon: <VercelIcon /> },
       ],
     },
   ];
